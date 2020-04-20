@@ -46,3 +46,35 @@ TENURE : Tenure of credit card service for user
 3.Applied Methods
 
 K-means, DBSCAN and Hierarchical clustering methods have been applied for customer segmentation. The most suitable of these methods was chosen as K-means. With K-means, 4, 6 and 8 clusters were examined. As a result, customers are segmented into 8 clusters.
+
+4.CONCLUSION
+
+Compering 3 different Kmeans Models showed that we have a better understanding of customer 
+segmentation by using the 8 clusters model. Some of the outstanding results:
+
+Cluster 0: This customer group represents a small group of customers who spend small with the lowest 
+minimum payment and balance.
+
+Cluster 1: This group makes purchases in low amounts but with high frequency. The highest installment 
+purchases frequency is in this group.
+
+Cluster 2: This group points to new customers with the lowest credit limit ,average balance level and 
+less frequent purchases.
+
+Cluster 3: This cluster targets a group of customers with high balance and cash advances. This group also 
+has a low purchase frequency. We can assume that this customer segment uses credit cards as credit.
+
+Cluster 4:  The group of customers with the highest credit limit and the highest purchase amount. 
+Purchase frequencies and balances are also high. This group that uses the credit card most actively is
+the smallest group of customers.
+
+Cluster 5: The cluster with the lowest installment purchase and full payment percentage. 
+The most customers are in this group.
+
+Cluster 6: The purchase frequency of customers is high but the minimum payment amounts are low. 
+Installment purchases and installment purchases are at medium level.
+
+Cluster 7: Customers with the highest balance, purchase frequency and minimum payment. 
+Credit card limits and purchase amounts are at an average level. They often make their purchases in installments.
+
+
